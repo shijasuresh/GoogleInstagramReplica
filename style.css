@@ -79,7 +79,7 @@ header {
 }
 
 .user-info {
-    margin: 30px 10px;
+    margin: 30px 15px;
 }
 
 .user-info-p1 {
@@ -122,4 +122,15 @@ header {
     color: white;
     font-size: 14px;
     font-weight: bold;
+}
+
+.follow-p {
+    color: rgb(148, 144, 144);
+    font-size: small;
+    font-weight: 500;
+    margin-left: 15px;
+}
+
+.follow-b {
+    color: white;
 }
